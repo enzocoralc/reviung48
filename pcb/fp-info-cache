@@ -1,0 +1,176 @@
+128429654155432
+customs
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+customs
+D_SOD-123_Bidirectional
+SOD-123
+SOD-123
+0
+2
+2
+customs
+Generic-Mounthole
+
+
+0
+1
+1
+customs
+JST-SR-4
+
+
+0
+6
+4
+customs
+JST_SM04B-SRSS
+
+
+0
+6
+6
+customs
+Kailh-CPG151101S11_MX_Socket-1.00u
+MX_PCB
+MX_PCB
+0
+4
+2
+customs
+MX_Stabilizer_Cutout-2u
+
+
+0
+0
+0
+customs
+MX_reversible_solder-hotswap
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+16
+2
+customs
+PERS56v2
+PER56 - 56 mm Low Profile Incremental Ring Encoder
+encoder, scroll ring, pers56
+0
+7
+4
+customs
+PMW3360
+
+
+0
+16
+16
+customs
+Power_reversible
+
+
+0
+14
+3
+customs
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+customs
+RollerEncoder
+
+
+0
+30
+5
+customs
+SS-12D00
+Mini power slide switch – Licensed under CC-BY-SA-4.0 (based on https://github.com/kaibader/KiCad-Library)
+
+0
+3
+3
+customs
+SW_Hotswap_Kailh_MX_plated
+Kailh keyswitch Hotswap Socket plated holes
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout
+0
+8
+2
+customs
+SW_Hotswap_Kailh_MX_plated_2.25u
+Kailh keyswitch Hotswap Socket plated holes with 2.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.25u
+0
+8
+2
+customs
+SW_Hotswap_Kailh_MX_plated_ISOEnter
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter
+0
+8
+2
+customs
+Seeeduino-XIAO-jumpers
+
+
+0
+98
+14
+customs
+Stabilizer_Cherry_MX_2.00u
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+customs
+TYPE-C-31-M-12
+
+
+0
+16
+13
+customs
+USON-10_2.5x1.0mm_P0.5mm
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm Pitch 0.5mm
+0
+10
+10
+customs
+battery_pads_reversible
+
+
+0
+4
+2
+customs
+xiao-ble-smd-cutout
+
+
+0
+22
+22
+customs
+xiao-ble-tht
+
+
+0
+22
+22
+customs
+xiao-ble-tht-crides
+
+
+0
+22
+22
