@@ -1797,10 +1797,10 @@
   (gr_line (start 216.55094 110.185521) (end 216.550939 128.529518) (layer "F.Fab") (width 0.1) (tstamp fe828231-5fba-4836-8130-97650e22a1d7))
   (gr_line (start 102.29785 71.764517) (end 102.297851 66.764518) (layer "F.Fab") (width 0.1) (tstamp feb367ed-d125-45b6-b4cd-68453c563174))
   (gr_line (start 78.583973 92.505382) (end 76.170264 106.19421) (layer "F.Fab") (width 0.1) (tstamp ff803797-84b2-4e72-b4b2-d0b23a53f7f3))
-  (gr_text "REVIUNG41 rev1.4 GH\nDesigned by gtips 2021" (at 119.045629 123.33369 -15) (layer "B.SilkS") (tstamp c4497ba1-2e53-4cc2-9b01-033974e16a63)
+  (gr_text "REVIUNG48 GH\nDesigned by ronzeco 2022" (at 119.045629 123.33369 -15) (layer "B.SilkS") (tstamp c4497ba1-2e53-4cc2-9b01-033974e16a63)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "REVIUNG41 rev1.4 GH" (at 223.185629 110.87369 10) (layer "F.Mask") (tstamp 4789b879-94ce-4df9-b9d3-866a651e09c1)
+  (gr_text "REVIUNG48 GH" (at 223.185629 110.87369 10) (layer "F.Mask") (tstamp 4789b879-94ce-4df9-b9d3-866a651e09c1)
     (effects (font (size 0.85 0.85) (thickness 0.12)))
   )
 
