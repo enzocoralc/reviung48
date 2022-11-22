@@ -3,3 +3,5 @@
 ![main pcb](https://github.com/enzocoralc/reviung48/tree/main/pictures/pcb-mainboard.png)
 ![top plate](https://github.com/enzocoralc/reviung48/tree/main/pictures/pcb-top.png)
 ![backplate](https://github.com/enzocoralc/reviung48/tree/main/pictures/pcb-bottom.png)
+
+<src="https://github.com/enzocoralc/reviung48/tree/main/pictures/pcb-mainboard.png">
